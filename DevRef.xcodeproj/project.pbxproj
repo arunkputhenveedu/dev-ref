@@ -15,6 +15,7 @@
 		4A436E801CAD0EC9006C6BFE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A436E7E1CAD0EC9006C6BFE /* LaunchScreen.storyboard */; };
 		4A436E8B1CAD0EC9006C6BFE /* DevRefTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A436E8A1CAD0EC9006C6BFE /* DevRefTests.swift */; };
 		4A436E961CAD0EC9006C6BFE /* DevRefUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A436E951CAD0EC9006C6BFE /* DevRefUITests.swift */; };
+		4A436EA41CAD4161006C6BFE /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 4A436EA31CAD4161006C6BFE /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4A436E911CAD0EC9006C6BFE /* DevRefUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DevRefUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A436E951CAD0EC9006C6BFE /* DevRefUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevRefUITests.swift; sourceTree = "<group>"; };
 		4A436E971CAD0EC9006C6BFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4A436EA31CAD4161006C6BFE /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				4A436E721CAD0EC9006C6BFE /* AppDelegate.swift */,
 				4A436E741CAD0EC9006C6BFE /* ViewController.swift */,
+				4A436EA31CAD4161006C6BFE /* .gitignore */,
 				4A436E761CAD0EC9006C6BFE /* Main.storyboard */,
 				4A436E7C1CAD0EC9006C6BFE /* Assets.xcassets */,
 				4A436E7E1CAD0EC9006C6BFE /* LaunchScreen.storyboard */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A436EA41CAD4161006C6BFE /* .gitignore in Resources */,
 				4A436E801CAD0EC9006C6BFE /* LaunchScreen.storyboard in Resources */,
 				4A436E7D1CAD0EC9006C6BFE /* Assets.xcassets in Resources */,
 				4A436E781CAD0EC9006C6BFE /* Main.storyboard in Resources */,
